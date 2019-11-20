@@ -87,5 +87,5 @@ To enter Macro Mode and use your macros during gaming, simply press Fn+ Y and th
 
 ### Light Macro Recording / Per Key Lighting
 Press and Hold Fn + F9 for 3 seconds to enter Light Macro/Per Key Recording Mode. To cycle through the available colors, press each key until it is the appropriate color. To save your lighting setup, quickly press Fn + F9 to exit Light Macro Recording Mode. If you go into a different light mode and want to return to your custom light macro, simply press Fn + F9 to return to your defined setup. 
-------
+
 
